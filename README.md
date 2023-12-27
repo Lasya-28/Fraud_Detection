@@ -73,7 +73,6 @@ Our standard training pipeline consists of several steps:
 
 Below is the pipeline workflow which we will implement in this project:
 
-![WhatsApp Image 2023-12-27 at 17 27 55](https://github.com/Srilasya22/Fraud-Detection/assets/113256681/8a42dc32-0751-495b-9746-d87276d36d8d)
 
 # Log Analysis
 Kedro can be used for log analysis as well.Here the log analysis of the project:
